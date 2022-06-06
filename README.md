@@ -5,4 +5,4 @@ Reposi de    de desafio de Git e Github da DIO
 
 ##links  úteis 
 
-[Sintaxe basica  markdown]()
+[Sintaxe basica  markdown] (https:markdownguide.org.basic-sintax/)
